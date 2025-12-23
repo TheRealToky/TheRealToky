@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Category,Tools & Languages
+Languages,"Python, C/C++, SQL, JavaScript, PHP"
+Data & ML,"Pandas, NumPy, Matplotlib, EarthEngine, Dash"
+Infrastructure,"Docker, Nginx, Git, Linux"
+Databases,"PostgreSQL (TimescaleDB), MySQL"
+Misc,"LaTeX, HTML/CSS"
+Sources
+https://github.com/AhmadienHafizhYusufi/AhmadienHafizhYusufi
