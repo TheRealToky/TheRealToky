@@ -8,7 +8,7 @@ I am a polyvalent developer specializing in **Machine Learning** and **Data Scie
 ---
 
 ### ✅ Check out my university account, it's more populated :)
-- [https://github.com/tokiniainaDisaine](https://github.com/tokiniainaDisaine)
+- [https://github.com/TheRealToky](https://github.com/TheRealToky)
 
 ### 🛠️ Technical Toolkit
 
@@ -43,8 +43,6 @@ I am a polyvalent developer specializing in **Machine Learning** and **Data Scie
 
 ### 📊 GitHub Activity
 
-This section is still in construction :(
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRealToky&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealToky&layout=compact&theme=radical)
 
@@ -58,8 +56,8 @@ This section is still in construction :(
 - **🧩 Passions:** Chess player ♟️, Basketball enthusiast 🏀, Voracious reader 📚, and lifelong Language Learner.
 
 ### 📫 Connect with me
-- **WhatsApp (most active):** [+250795610](+250795610)
-- **LinkedIn:** [linkedin.com/in/toky-disaine-11bb3b210/](https://www.linkedin.com/in/toky-disaine-11bb3b210/)
+- **WhatsApp (most active):** [+250795610351](+250795610351)
+- **LinkedIn:** [linkedin.com/in/toky-disaine/](https://www.linkedin.com/in/toky-disaine/)
 - **Portfolio:** [my_portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (Still don't have one sorry XD)
 
 ---
