@@ -8,7 +8,7 @@ I am a polyvalent developer specializing in **Machine Learning** and **Data Scie
 ---
 
 ### ✅ Check out my university account, it's more populated :)
-- [https://github.com/TheRealToky](https://github.com/TheRealToky)
+- [https://github.com/tokiniainaDisaine](https://github.com/tokiniainaDisaine)
 
 ### 🛠️ Technical Toolkit
 
