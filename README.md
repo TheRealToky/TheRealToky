@@ -49,8 +49,14 @@ I am a polyvalent developer specializing in **Machine Learning** and **Data Scie
 
 ### 📊 GitHub Activity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRealToky&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealToky&layout=compact&theme=radical)
+<!-- <div align='left'> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=TheRealToky&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="170em" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRealToky&layout=compact&count_private=true&langs_count=8&theme=dracula&hide_border=false" height="170em" /> -->
+  <!-- <img  height="170em" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=TheRealToky&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
+  <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealToky&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"> -->
+<!-- </div> -->
+
+<!--![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=TheRealToky&show_icons=true&theme=radical) -->
 
 ---
 
