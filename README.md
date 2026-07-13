@@ -48,7 +48,7 @@ Machine Learning for financial time-series, quantitative finance, predictive mod
 * **Key Features:** Data normalization for regional comparison and risk prediction for landslides, droughts, and floods.
 * **Tech Stack:** Python, Flask, Earth Engine API, Nginx.
 
-#### [FitSync – Gym Management Platform](https://github.com/TheRealToky/stock_model)
+#### [FitSync – Gym Management Platform](https://github.com/ydejene/fitsync)
 **Full-Stack SaaS for Gym Operations**
 * Built a full-stack SaaS platform for gym operations: member management, class scheduling, Telebirr B2B payments, and an analytics dashboard with 17+ parallel queries.
 * Implemented role-based access control with granular staff permissions, Google OAuth, JWT auth, and a subscription-gated model for gym owners.
