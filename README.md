@@ -7,8 +7,8 @@ I'm a polyvalent developer specializing in **Machine Learning** and **Data Scien
 
 ---
 
-### Check out my personal account, it's more populated :)
-- [https://github.com/TheRealToky](https://github.com/TheRealToky)
+### Check out my university account, it's has more boring projects :)
+- [https://github.com/tokiniainaDisaine](https://github.com/tokiniainaDisaine)
 
 ---
 
