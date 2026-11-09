@@ -21,8 +21,8 @@ Machine Learning for financial time-series, quantitative finance, predictive mod
 
 - **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - **Data Science & ML:** `Pandas`, `NumPy`, `PyTorch`, `SciKit-Learn`, `XGBoost`, `LightGBM`, `vectorbt`, `PyArrow`, `Matplotlib`, `Earth Engine API`, `YFinance`
-- **Data Infrastructure:** `SQLAlchemy`, `Alembic`, `Prophet/SARIMAX`, `BigQuery`, `Terraform`
-- **Web & Backend:** `Flask`, `FastAPI`, `Django ORM`
+- **Data Infrastructure:** `SQLAlchemy`
+- **Web & Backend:** `Flask`, `FastAPI`
 - **Other tools:** `Docker`, `Nginx`, `Linux`, `Git`, `Jupyter`, `LaTeX`
 - **Databases:** `PostgreSQL (TimescaleDB)`, `MySQL`, `SQLite`, `DuckDB`
 
